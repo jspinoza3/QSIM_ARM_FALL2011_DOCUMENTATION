@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011/MacPorts 2011_3) (format=pdflatex 2011.12.17)  17 DEC 2011 14:32
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011/MacPorts 2011_3) (format=pdflatex 2011.12.17)  17 DEC 2011 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11,8 +11,8 @@ ech, slovak, dutch, ukenglish, usenglishmax, basque, french, german-x-2009-06-1
 ese, spanish, catalan, galician, loaded.
 (/opt/local/share/texmf-texlive-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/opt/local/share/texmf-texlive-dist/tex/latex/base/size10.clo
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/opt/local/share/texmf-texlive-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -140,43 +140,45 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 8.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 16.
 
 (/opt/local/share/texmf-texlive-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
+ [1{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-<fritz.png, id=1, 1285.80376pt x 1285.80376pt>
+
+]
+<fritz.png, id=11, 1285.80376pt x 1285.80376pt>
 File: fritz.png Graphic file (type png)
  <use fritz.png>
 Package pdftex.def Info: fritz.png used on input line 33.
 (pdftex.def)             Requested size: 108.405pt x 108.39917pt.
- [1{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
+Underfull \hbox (badness 2229) in paragraph at lines 42--43
+\OT1/cmr/m/n/10.95 Praesent eu nisi vel leo vulpu-tate laoreet.
+ []
 
-] [2
-
- <./fritz.png>]
-(./writeup.aux) ) 
+[2 <./fritz.png>] (./writeup.aux) ) 
 Here is how much of TeX's memory you used:
- 1481 strings out of 494770
- 21352 string characters out of 3171572
- 77995 words of memory out of 3000000
- 4708 multiletter control sequences out of 15000+200000
- 8241 words of font info for 29 fonts, out of 3000000 for 9000
+ 1483 strings out of 494770
+ 21396 string characters out of 3171572
+ 77029 words of memory out of 3000000
+ 4710 multiletter control sequences out of 15000+200000
+ 8798 words of font info for 31 fonts, out of 3000000 for 9000
  134 hyphenation exceptions out of 8191
- 37i,7n,23p,1106b,258s stack positions out of 5000i,500n,10000p,200000b,50000s
-</opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfont
-s/cm/cmr12.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts
-/cm/cmr17.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/
-cm/cmti10.pfb>
-Output written on writeup.pdf (2 pages, 3567989 bytes).
+ 37i,7n,23p,1106b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
+</opt/local/share/texmf-texlive-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx10.pfb></opt/local/share/texmf-texlive-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb></opt/local/share/texmf-texlive-dist/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb></opt/local/share/texmf-texlive-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb></opt/local/share/texmf-texlive-dist/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb></opt/local/share/texmf-texlive-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></opt/local/share/texmf-texlive-dist/fonts/type
+1/public/amsfonts/cm/cmti10.pfb>
+Output written on writeup.pdf (2 pages, 3568668 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream

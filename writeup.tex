@@ -1,15 +1,16 @@
-\documentclass[letterpaper,10pt,twocolumn]{article}
+\documentclass[letterpaper,11pt,twocolumn]{article}
 \usepackage{graphicx}
 
 \title{Development of traces generator for ARM processor}
-\author{Jeoffrey Spinoza and Surenkumar Nihalani}
+\author{Jeoffrey Spinoza, Kunal Patel and Surenkumar Nihalani}
 
 \begin{document}
 \maketitle
 
-
 \section{Abstract}
 Memory hierarchy is an important factor in systems design. In order to inform decisions as to what hardware improvements can be made to to a computer architecture, it is necessary to simulate execution of practical programs on that architecture and obtain timing data. There is no way to define the memory hierarchy and simulate the structure of CPU and measure the time. We do have simulators that allow us to define the model, take the program as input and calculate the execution time of the program. For such simulators, you need assembly instruction and the simulator doesn't execute the code, it just simulates the access and write times. Hence, it is a code inspection software. We need to run the program and get all the instructions executed. once, we have the instructions, we can use the timing simulator to find out the metrics of performance of the cpu. The purpose of our software is to extract the list of executed instructions with register accesses and memory access from the emulator for input into timing simulators. Our focus is to develop such a tool for an ARM emulator.
+
+
 \subsection{Subsection}
 Vestibulum congue fringilla mauris, eu aliquet libero pretium nec. Nulla facilisi. Morbi pellentesque sollicitudin ultricies. Nam tristique nulla convallis quam auctor eu euismod nulla tempor. Donec consectetur eleifend semper. Donec ut turpis neque, ac gravida quam. Suspendisse a quam sed libero scelerisque ullamcorper in sit amet est. Donec quis ornare eros.
 
@@ -28,9 +29,10 @@ Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
   \item{Number \emph{three}.}
   \item{And so on.}
 \end{enumerate}
+
 \begin{figure}
 \begin{center}
-\includegraphics[width=1.5in]{fritz}
+\includegraphics[width=5in]{fritz}
 \caption{This figure has a caption.}
 \label{fig:f1}
 \end{center}
