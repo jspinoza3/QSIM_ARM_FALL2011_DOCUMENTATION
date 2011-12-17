@@ -1,26 +1,15 @@
 \documentclass[letterpaper,10pt,twocolumn]{article}
-
 \usepackage{graphicx}
 
-\title{Title Goes Here}
-\author{Author 1 and Author 2}
+\title{Development of traces generator for ARM processor}
+\author{Jeoffrey Spinoza and Surenkumar Nihalani}
 
 \begin{document}
 \maketitle
 
-\begin{figure}
-\begin{center}
-\includegraphics[width=1.5in]{fritz}
-\caption{This figure has a caption.}
-\label{fig:f1}
-\end{center}
-\end{figure}
 
-\section{Section 1}
-See Figure \ref{fig:f1} for more details.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel libero dignissim risus feugiat mollis. Nullam bibendum, mi dictum aliquet blandit, ligula nisl elementum purus, a convallis magna neque non diam. Fusce venenatis, mi imperdiet tristique hendrerit, libero ante commodo est, sed imperdiet dolor sapien sed nisl. Mauris faucibus iaculis diam aliquam consectetur. Sed tortor felis, congue in imperdiet sed, suscipit eget lorem. Integer eget orci ut sapien luctus elementum. Aenean nec tristique mi. Nunc ac interdum nisl. Aenean eget orci neque, et mollis justo. Sed condimentum massa vitae justo venenatis accumsan. Suspendisse ornare vehicula semper. Donec eros neque, eleifend eget gravida sed, dapibus a enim.
-
+\section{Abstract}
+Memory hierarchy is an important factor in systems design. In order to inform decisions as to what hardware improvements can be made to to a computer architecture, it is necessary to simulate execution of practical programs on that architecture and obtain timing data. There is no way to define the memory hierarchy and simulate the structure of CPU and measure the time. We do have simulators that allow us to define the model, take the program as input and calculate the execution time of the program. For such simulators, you need assembly instruction and the simulator doesn't execute the code, it just simulates the access and write times. Hence, it is a code inspection software. We need to run the program and get all the instructions executed. once, we have the instructions, we can use the timing simulator to find out the metrics of performance of the cpu. The purpose of our software is to extract the list of executed instructions with register accesses and memory access from the emulator for input into timing simulators. Our focus is to develop such a tool for an ARM emulator.
 \subsection{Subsection}
 Vestibulum congue fringilla mauris, eu aliquet libero pretium nec. Nulla facilisi. Morbi pellentesque sollicitudin ultricies. Nam tristique nulla convallis quam auctor eu euismod nulla tempor. Donec consectetur eleifend semper. Donec ut turpis neque, ac gravida quam. Suspendisse a quam sed libero scelerisque ullamcorper in sit amet est. Donec quis ornare eros.
 
@@ -39,6 +28,13 @@ Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
   \item{Number \emph{three}.}
   \item{And so on.}
 \end{enumerate}
+\begin{figure}
+\begin{center}
+\includegraphics[width=1.5in]{fritz}
+\caption{This figure has a caption.}
+\label{fig:f1}
+\end{center}
+\end{figure}
 
 Duis dignissim iaculis mattis. Quisque at sapien est. Proin euismod, metus faucibus sodales blandit, ligula tortor pharetra nisi, commodo suscipit magna nulla sodales purus. In nec quam id nisi suscipit suscipit. Vivamus rutrum bibendum porta. Morbi vestibulum tincidunt dui et sollicitudin. Morbi ut ullamcorper lectus. Mauris non porttitor elit. Ut scelerisque metus et nisi cursus condimentum mattis arcu facilisis. Maecenas ullamcorper porta lobortis. Aliquam erat volutpat. Phasellus sit amet pretium lorem. Aliquam erat volutpat.
 
