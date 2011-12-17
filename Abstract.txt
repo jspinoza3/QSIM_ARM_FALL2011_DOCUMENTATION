@@ -1,0 +1,17 @@
+Abstract
+Memory hierarchy is an important factor in systems design. In order to fully
+optimize the addition of hardware and improvement in performance. To study 
+the performance of a program on cpu, we need to simulate the execution of the
+program and measure the timing of the program. There are emulators that can 
+take the program and run it on the cpu, but, it will run on the host machine.
+There is no way to define the memory hierarchy and simulate the structure of
+CPU and measure the time. We do have simulators that allow us to define the 
+model, take the program as input and calculate the execution time of the 
+program. For such simulators, you need assembly instruction and the simulator
+doesn't execute the code, it just simulates the access and write times.
+Hence, it is a code inspection software. We need to run the program and get
+all the instructions executed. once, we have the instructions, we can use
+the timing simulator to find out the metrics of performance of the cpu.
+The purpose of our software is to extract the list of executed instructions
+from the emulator for input into timing simulators. Our focus is to develop
+such a tool for an ARM emulator.
