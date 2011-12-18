@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011/MacPorts 2011_3) (format=pdflatex 2011.12.17)  17 DEC 2011 22:54
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011/MacPorts 2011_3) (format=pdflatex 2011.12.17)  17 DEC 2011 23:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11,8 +11,8 @@ ech, slovak, dutch, ukenglish, usenglishmax, basque, french, german-x-2009-06-1
 ese, spanish, catalan, galician, loaded.
 (/opt/local/share/texmf-texlive-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/opt/local/share/texmf-texlive-dist/tex/latex/base/size11.clo
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/opt/local/share/texmf-texlive-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -61,18 +61,18 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 (./writeup.aux)
 \openout1 = `writeup.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 (/opt/local/share/texmf-texlive-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -135,31 +135,29 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 11.
+(Font)              <12> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+(Font)              <6> on input line 6.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [1{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+<Slide.png, id=1, 1051.93pt x 395.4775pt>
+File: Slide.png Graphic file (type png)
+ <use Slide.png>
+Package pdftex.def Info: Slide.png used on input line 20.
+(pdftex.def)             Requested size: 469.75499pt x 176.60547pt.
+
+Overfull \hbox (0.75499pt too wide) in paragraph at lines 20--21
+ [] 
+ []
+
+[1{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-<Slide.png, id=10, 1051.93pt x 395.4775pt>
-File: Slide.png Graphic file (type png)
- <use Slide.png>
-Package pdftex.def Info: Slide.png used on input line 32.
-(pdftex.def)             Requested size: 469.75499pt x 176.60547pt.
-
-Overfull \hbox (0.75499pt too wide) in paragraph at lines 32--33
- [] 
- []
-
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -175,46 +173,17 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-[2] <return.png, id=14, 559.8516pt x 236.082pt>
-File: return.png Graphic file (type png)
- <use return.png>
-Package pdftex.def Info: return.png used on input line 57.
-(pdftex.def)             Requested size: 469.75499pt x 198.09137pt.
-
-Overfull \hbox (0.75499pt too wide) in paragraph at lines 57--58
- [] 
- []
-
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-
-Underfull \hbox (badness 2772) in paragraph at lines 68--69
-\OT1/cmr/m/n/10.95 Chad wrote the client pro-gram known as
- []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3 <./Slide.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 73.
- (/opt/local/share/texmf-texlive-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 73.
+ [2 <./Slide.png>] <return.png, id=14, 559.8516pt x 236.082pt>
+File: return.png Graphic file (type png)
+ <use return.png>
+Package pdftex.def Info: return.png used on input line 45.
+(pdftex.def)             Requested size: 469.75499pt x 198.09137pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
-[]\OT1/cmr/m/n/10.95 Modify board file (<qemu di-rec-
+Overfull \hbox (0.75499pt too wide) in paragraph at lines 45--46
+ [] 
  []
 
 Missing character: There is no ‚ in font cmr10!
@@ -223,25 +192,33 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 61.
+(/opt/local/share/texmf-texlive-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 80.
+(Font)              <7> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 62.
 
-Underfull \hbox (badness 3323) in paragraph at lines 80--81
-[]\OT1/cmr/m/n/10.95 Write mem-ory and reg-is-ter ac-cess in-
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+[]\OT1/cmr/m/n/10 Modify board file ($\OML/cmm/m/it/10 <$\OT1/cmr/m/n/10 qemu
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-\OT1/cmr/m/n/10.95 struc-tions (''$\OML/cmm/m/it/10.95 <$\OT1/cmr/m/n/10.95 qem
-u directory$\OML/cmm/m/it/10.95 >$\OT1/cmr/m/n/10.95 /target-
- []
-
-
-Underfull \hbox (badness 1496) in paragraph at lines 81--83
-\OT1/cmr/m/n/10.95 arm/'' di-rec-tory: ''op[]helper.c'', ''trans-
- []
-
-[4 <./return.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -251,27 +228,33 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [5] (./writeup.aux) ) 
+[3]
+Underfull \vbox (badness 1418) has occurred while \output is active []
+
+ [4 <./return.png>] (./writeup.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 1490 strings out of 494770
- 21503 string characters out of 3171572
- 79037 words of memory out of 3000000
- 4717 multiletter control sequences out of 15000+200000
- 8811 words of font info for 31 fonts, out of 3000000 for 9000
+ 1488 strings out of 494770
+ 21454 string characters out of 3171572
+ 83015 words of memory out of 3000000
+ 4715 multiletter control sequences out of 15000+200000
+ 7895 words of font info for 28 fonts, out of 3000000 for 9000
  134 hyphenation exceptions out of 8191
  37i,7n,23p,1268b,258s stack positions out of 5000i,500n,10000p,200000b,50000s
-</opt/local/share/texmf-texlive-dist/fonts/type1/public/a
-msfonts/cm/cmbx10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/a
-msfonts/cm/cmr10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/ams
-fonts/cm/cmr17.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb>
-Output written on writeup.pdf (5 pages, 326355 bytes).
+</opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmmi10.pf
+b></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+</opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
+/opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on writeup.pdf (4 pages, 325046 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 49 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
