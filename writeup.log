@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011/MacPorts 2011_3) (format=pdflatex 2011.12.17)  17 DEC 2011 23:14
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011/MacPorts 2011_3) (format=pdflatex 2011.12.17)  17 DEC 2011 23:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -167,12 +167,6 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -186,12 +180,6 @@ Overfull \hbox (0.75499pt too wide) in paragraph at lines 45--46
  [] 
  []
 
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -231,7 +219,9 @@ Missing character: There is no ù in font cmr10!
 [3]
 Underfull \vbox (badness 1418) has occurred while \output is active []
 
- [4 <./return.png>] (./writeup.aux) ) 
+ [4 <./return.png>] [5
+
+] (./writeup.aux) ) 
 Here is how much of TeX's memory you used:
  1488 strings out of 494770
  21454 string characters out of 3171572
@@ -240,18 +230,18 @@ Here is how much of TeX's memory you used:
  7895 words of font info for 28 fonts, out of 3000000 for 9000
  134 hyphenation exceptions out of 8191
  37i,7n,23p,1268b,258s stack positions out of 5000i,500n,10000p,200000b,50000s
-</opt/local/share/texmf-texlive-dist/fonts
-/type1/public/amsfonts/cm/cmbx10.pfb></opt/local/share/texmf-texlive-dist/fonts
-/type1/public/amsfonts/cm/cmbx12.pfb></opt/local/share/texmf-texlive-dist/fonts
-/type1/public/amsfonts/cm/cmmi10.pfb></opt/local/share/texmf-texlive-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb></opt/local/share/texmf-texlive-dist/fonts/
-type1/public/amsfonts/cm/cmr12.pfb></opt/local/share/texmf-texlive-dist/fonts/t
-ype1/public/amsfonts/cm/cmr17.pfb></opt/local/share/texmf-texlive-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb>
-Output written on writeup.pdf (4 pages, 325500 bytes).
+</opt/local/share/texmf-texlive-dist/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsf
+onts/cm/cmr10.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb>
+Output written on writeup.pdf (5 pages, 326905 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
